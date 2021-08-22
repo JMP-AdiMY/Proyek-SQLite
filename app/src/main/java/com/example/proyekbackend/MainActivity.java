@@ -8,6 +8,7 @@ import com.example.proyekbackend.helper.DbHelper;
 import com.example.proyekbackend.model.Data;
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
 import com.google.android.material.snackbar.Snackbar;
+import com.example.proyekbackend.adapter.Adapter;
 
 import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
@@ -23,7 +24,6 @@ import com.example.proyekbackend.databinding.ActivityMainBinding;
 
 import android.view.Menu;
 import android.view.MenuItem;
-import android.widget.Adapter;
 import android.widget.AdapterView;
 import android.widget.ListView;
 import android.widget.Toolbar;
